@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.reactiva.nombreaplicacion"
+        versionCode="10" 
+        version   = "1.0.0">
+		
+		<feature name="http://api.phonegap.com/1.0/camera"/>
+        <feature name="http://api.phonegap.com/1.0/file"/>
+
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Prueba Formulario</name>
+
+    <description>
+        Prueba Formulario
+    </description>
+
+    <author href="http://www.reactiva.com.co" email="gerencia@reactiva.com.co">
+        Jorge William Fernandez Restrepo
+    </author>
+
+</widget>
